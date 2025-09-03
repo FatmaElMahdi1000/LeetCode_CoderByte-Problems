@@ -3,7 +3,6 @@ Have the function ArrayAdditionI(arr) take the array of numbers stored in arr an
 Otherwise, return "false".
 """
 #**********************************# checking if any combination can give add up to get the largest number 
-
 from itertools import combinations
 
 def ArrayAdditionI(arr):
